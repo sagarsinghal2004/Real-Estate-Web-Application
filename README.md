@@ -74,4 +74,4 @@ Place the configuration file in the root of your frontend project (client).
 Follow Firebase documentation to set up authentication and storage functionalities in your frontend code.
 
 ## Contributing
-We welcome contributions to this project! Please refer to the **<code><a href="https://github.com/sagarsinghal2004/Real-Estate-Web-Application/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a></code>** file for guidelines on how to contribute.
+We welcome contributions to this project! Please refer to the **<code><a href="https://github.com/Sujal-2820/Real-Estate-Web-Application/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a></code>** file for guidelines on how to contribute.
