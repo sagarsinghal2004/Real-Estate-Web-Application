@@ -13,11 +13,6 @@
   </a>
 </div>
 
-## Project Snippets 
-![Header](images/header.jpg)
-![recent](images/recent.jpg)
-![dashboard](images/dash.jpg)
-
 ## Project Overview
 
 EstateVerse is a web application that helps users manage and explore real estate listings. It provides features like:
@@ -90,14 +85,6 @@ Enable authentication and storage services for your project.
 Download the Firebase configuration file (google-services.json or equivalent).
 Place the configuration file in the root of your frontend project (client).
 Follow Firebase documentation to set up authentication and storage functionalities in your frontend code.
-
-## How did we divde our work:
-
-<a href="https://github.com/Ayu1C">Ayushi</a> handeled the Frontend and laid out the User Interface maintaining the responsiveness of the interface.
-<br/>
-<a href="https://github.com/ayushharode">Ayush</a> took over the component integration and implemented the overall logic and dataflow within the project.
-<br/>
-<a href="https://github.com/Sujal-2820">Sujal</a> handeled the Backend and integrated Firebase for Image Processing and Authentication
 
 ## Contributing
 We welcome contributions to this project! Please refer to the **<code><a href="https://github.com/Sujal-2820/Real-Estate-Web-Application/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a></code>** file for guidelines on how to contribute.
