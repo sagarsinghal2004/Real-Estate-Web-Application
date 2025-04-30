@@ -1,18 +1,5 @@
 # EstateVerse
 
-## Our Top Contributors 
-<div style="display: flex;">
-  <a href="https://github.com/Ayu1C">
-    <img src="images/Ayushi.jpeg" alt="Contributor 1" width="100"/>
-  </a>
-  <a href="https://github.com/ayushharode">
-    <img src="images/Ayush.png" alt="Contributor 2" width="100"/>
-  </a>
-  <a href="https://github.com/Sujal-2820">
-    <img src="images/Sujal-Soni1.jpg" alt="Contributor 3" width="100"/>
-  </a>
-</div>
-
 ## Project Overview
 
 EstateVerse is a web application that helps users manage and explore real estate listings. It provides features like:
